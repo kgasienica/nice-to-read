@@ -6,7 +6,7 @@ It's just a place, where you can find more interesting content! Feel free to cre
 
 TODO
 
-# Programming language
+# Programming languages
 ## PHP
 ### Just PHP
 
@@ -24,3 +24,5 @@ TODO
 ### Vue.js
 
 -------------
+
+# Architecture
