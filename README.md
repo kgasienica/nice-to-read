@@ -1,5 +1,5 @@
 # Nice-to-read 
-It's just a place, where you can find more interesting content! Feel free to create pull request for links you think are interesting.
+It's just a place, where you can find some interesting content. Feel free to create pull request for links you think are interesting.
 
 
 **Table of Contents**
