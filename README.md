@@ -1,16 +1,19 @@
-# PHP
-## Just PHP
 
-## Symfony
+# Programming language
+## PHP
+### Just PHP
 
-## Laravel
+### Symfony
+
+### Laravel
+
+## JavaScript
+### Just PHP
+
+### React.js
+
+### Angular
+
+### Vue.js
 
 -------------
-# JavaScript
-## Just PHP
-
-## React.js
-
-## Angular
-
-## Vue.js
