@@ -18,7 +18,7 @@ TODO
 ### Just JS
 
 ### Node.js
-[WebRTC and Node.js: Development of a real-time video chat app](https://tsh.io/blog/how-to-write-video-chat-app-using-webrtc-and-nodejs/ "WebRTC and Node.js: Development of a real-time video chat app")
+- [WebRTC and Node.js: Development of a real-time video chat app](https://tsh.io/blog/how-to-write-video-chat-app-using-webrtc-and-nodejs/)
 ### React.js
 
 ### Angular
